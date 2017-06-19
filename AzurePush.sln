@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzurePush", "AzurePush\AzurePush.csproj", "{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Release|iPhone.Build.0 = Release|iPhone
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B2547EAE-B67A-4308-9C6F-0DDFD7E80B8A}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
